@@ -1,0 +1,30 @@
+<style type="text/css">
+
+body {lang:PL; background-color:#D9D5BE; color:#FFFFFF; margin-top:0px; }
+
+p {font-size: 12px; font-family: verdana; font-style:normal; color:black;}
+h1 {font-size: 18px; font-family: verdana; font-style:normal;}
+h2 {font-size: 12px; font-family: verdana; font-style:normal;}
+td {font: 9px,verdana;}
+
+p.stopka {font-size: 10px; font-family: verdana; font-style:normal; color:black; margin-top: 0; margin-bottom: -10; text-align:center;}
+p.text {font-size: 12px; font-family: verdana; font-style:normal; color:black; text-align:justify;}
+
+a:link {COLOR:black; font: verdana; text-decoration:none;}
+a:visited {COLOR:black; font: verdana; text-decoration:none;}
+a:hover {COLOR:#FF6600; font: verdana; text-decoration:underline; font-weight: normal;}
+a:active {COLOR:#808080; font: verdana; text-decoration:none;}
+
+tr.naglowek { background-color:#cccccc }
+
+input {font: 9px,verdana;}
+select {font: 9px,verdana;}
+tr.menu {COLOR:white; font: 12px,verdana;}
+a.menu {font: 12px,verdana; font-weight: bold;}
+a.menu:link {COLOR:white; font: verdana; text-decoration:none;}
+a.menu:visited {COLOR:white; font: verdana; text-decoration:none;}
+a.menu:hover {COLOR:black; font: verdana; text-decoration:underline; font-weight: bold;}
+a.menu:active {COLOR:black; font: verdana; text-decoration:none;}
+
+
+</style>
